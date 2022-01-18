@@ -1,0 +1,48 @@
+{"result":[
+  {
+    "id": "1",
+    "icon": null,
+    "text": "Item1",
+    "parentKey": "",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+  },
+  {
+    "id": "2",
+    "icon": null,
+    "text": "Item2",
+    "parentKey": "3",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+  },
+  {
+    "id": "3",
+    "icon": null,
+    "text": "Item3",
+    "parentKey": "",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+  },
+  {
+    "id": "4",
+    "icon": null,
+    "text": "Item1.2",
+    "parentKey": "2",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+   },
+  {
+    "id": "5",
+    "icon": null,
+    "text": "Item4",
+    "parentKey": "1",
+    "selected": false,
+    "disabled": false,
+    "expand": false
+   }
+]
+}
